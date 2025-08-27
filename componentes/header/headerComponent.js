@@ -1,7 +1,7 @@
 function header(){
 
     let header= document.createElement('header');
-    header.innerText= "Mia";
+    header.innerText= "Melanie";
     header.className= "header";
 
     let div=document.createElement('div');

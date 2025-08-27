@@ -1,6 +1,5 @@
 import {header} from "./componentes/header/headerComponent.js";
 import {seccion1} from "./componentes/seccion1/seccionComponent.js";
-import {  } from "./componentes/nav/navComponent.js";
 
 function seccion (){
 
